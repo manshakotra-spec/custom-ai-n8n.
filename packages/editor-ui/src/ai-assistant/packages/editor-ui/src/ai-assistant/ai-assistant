@@ -1,0 +1,3 @@
+export async function askGemini(message: string) {
+  return "AI Assistant Working";
+}
